@@ -1,3 +1,5 @@
+THIS PROJECT IS ARCHIVED.
+
 # Plakoto AI
 Mit der Plakoto AI Anwendung kann man Plakoto gegen verschiedene Agents spielen. Die KI-basierten Agents verwenden Deep-Q-Learning.
 Es besteht die Möglichkeit, die Agents gegeneinander antreten lassen.
